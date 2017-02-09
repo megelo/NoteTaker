@@ -39,21 +39,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="616dc5f88e850f2dfac7b30bb142970005f456b3">
+        <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a6934d5f36c23609e12f373dfcb1ec7ad7c84e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.0"
         sha1="d84409890828e07d344a3b9b1da545dba9897b51">
         <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_14537c8b6680273e0e3ed74591d597ec264dec81\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.0"
-        sha1="73377e3e469084fc46c07bb0944bb176df48b6fb">
-        <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a6934d5f36c23609e12f373dfcb1ec7ad7c84e86\classes.dex" />
     </item>
 
 </items>

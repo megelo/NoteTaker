@@ -5,50 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1755100451321988"
+    timestamp="1760861220844765"
     token="-6137774866611883302"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="440" />
+        duration="3444" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="165" />
+        duration="425" />
     <task
         name="verifier"
-        duration="11" />
+        duration="14" />
 
     <artifact
-        location="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-        type="DEX" />
+        location="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="1753711845571079"
+        timestamp="1760861220844765"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="1754314690747453"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="1755100451321988"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

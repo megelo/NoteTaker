@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<!--android:exported="false" means that content provider is only for this app-->
+        <provider
+            android:authorities="com.example.plainolnotes.notesprovider"
+            android:name=".NotesProvider"
+            android:exported="false"
+            />
     </application>
 
 </manifest>
