@@ -1324,12 +1324,13 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f0c001f;
         public static final int action_bar_title=0x7f0c001e;
         public static final int action_context_bar=0x7f0c0032;
+        public static final int action_create_sample=0x7f0c003f;
+        public static final int action_delete_all=0x7f0c0040;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
         public static final int action_mode_bar=0x7f0c002e;
         public static final int action_mode_bar_stub=0x7f0c002d;
         public static final int action_mode_close_button=0x7f0c0020;
-        public static final int action_settings=0x7f0c003f;
         public static final int activity_chooser_view_content=0x7f0c0021;
         public static final int always=0x7f0c0016;
         public static final int beginning=0x7f0c0013;
@@ -1435,8 +1436,9 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f06000d;
         public static final int abc_shareactionprovider_share_with_application=0x7f06000e;
         public static final int abc_toolbar_collapse_description=0x7f06000f;
-        public static final int action_settings=0x7f060010;
-        public static final int app_name=0x7f060011;
+        public static final int app_name=0x7f060010;
+        public static final int create_sample_data=0x7f060011;
+        public static final int delete_all_notes=0x7f060012;
     }
     public static final class style {
         public static final int Animation_AppCompat_DropDownUp=0x7f07006a;

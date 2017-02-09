@@ -5,30 +5,30 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1767374977865661"
+    timestamp="1770129497210543"
     token="-6137774866611883302"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="BINARY_MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
-        duration="927" />
+        duration="607" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="153" />
+        duration="233" />
     <task
         name="verifier"
-        duration="2" />
+        duration="16" />
 
     <artifact
         location="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1767374977865661"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="1770129497210543"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
             location="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

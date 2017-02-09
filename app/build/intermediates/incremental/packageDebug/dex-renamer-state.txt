@@ -1,4 +1,4 @@
-#Thu Feb 09 13:38:47 PST 2017
+#Thu Feb 09 14:24:41 PST 2017
 base.0=C\:\\Users\\Davorin Doung\\Desktop\\Projects\\NoteTaker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a6934d5f36c23609e12f373dfcb1ec7ad7c84e86
 renamed.1=classes.dex
 renamed.0=classes2.dex
