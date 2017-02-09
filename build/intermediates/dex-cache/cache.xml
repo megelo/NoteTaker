@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_c46a487193dd13edd7072c72823723846da93175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="02bb728ab2e3de0c97e9ecd463f41d16ab8b0bfd">
+        <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_861d6cb9220c7fe79fc9628fad8d1ac3380972bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_bc829290c6fe5945e6cd5345fe2932cad07ecfbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davorin Doung\Desktop\Android\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_157731ea78ea1a0be1543a35e5ba80dd0566a395\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_14537c8b6680273e0e3ed74591d597ec264dec81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="73377e3e469084fc46c07bb0944bb176df48b6fb">
+        <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a6934d5f36c23609e12f373dfcb1ec7ad7c84e86\classes.dex" />
+    </item>
+
+</items>
