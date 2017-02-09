@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.0"
-        sha1="02bb728ab2e3de0c97e9ecd463f41d16ab8b0bfd">
+        sha1="d6600b5f15c17407bfeb65b69fcdecaf827a4b0c">
         <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_861d6cb9220c7fe79fc9628fad8d1ac3380972bd\classes.dex" />
     </item>
     <item
@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.0"
-        sha1="616dc5f88e850f2dfac7b30bb142970005f456b3">
+        sha1="8c3683e6b8802063eea5f623742440029cd4898f">
         <dex dex="C:\Users\Davorin Doung\Desktop\Projects\NoteTaker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a6934d5f36c23609e12f373dfcb1ec7ad7c84e86\classes.dex" />
     </item>
     <item

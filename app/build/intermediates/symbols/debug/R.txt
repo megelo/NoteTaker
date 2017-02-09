@@ -459,7 +459,6 @@ int string abc_shareactionprovider_share_with_application 0x7f06000e
 int string abc_toolbar_collapse_description 0x7f06000f
 int string action_settings 0x7f060010
 int string app_name 0x7f060011
-int string hello_world 0x7f060012
 int style Animation_AppCompat_DropDownUp 0x7f07006a
 int style AppTheme 0x7f07006b
 int style Base_Animation_AppCompat_DropDownUp 0x7f07006c
